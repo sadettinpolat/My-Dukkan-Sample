@@ -1,2 +1,2 @@
 # My-Dukkan-Sample
-Bu bir ASP.NET MVC örneğidir.
+Bu bir ASP.NET MVC örneğidir....
